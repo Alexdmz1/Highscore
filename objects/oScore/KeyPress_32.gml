@@ -1,0 +1,4 @@
+/// @description AUMENTAR SCORE
+
+//AUMENTAR SCORE 1 CADA VEZ QUE SE PRESIONE LA TECLA
+global.score++;
